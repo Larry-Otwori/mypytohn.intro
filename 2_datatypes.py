@@ -33,5 +33,3 @@ print(type(none_type))
 print(type(my_char))  # take note of this in terms of output
 
 #my_string = {'Hello There'}
-
-print
